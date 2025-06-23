@@ -6,6 +6,13 @@ Un script simple en Python para descargar videos de YouTube usando `yt-dlp`.
 
 Este script permite descargar videos de YouTube en formato MP4 con la mejor calidad disponible. Utiliza la biblioteca `yt-dlp`, que es un fork mejorado de `youtube-dl`.
 
+## Versión Completa
+
+🔗 **Para una versión más completa y con más características, visita el repositorio oficial:**  
+**https://github.com/GAROS01/youtube-downloader**
+
+Esta versión incluye características adicionales como interfaz gráfica, múltiples formatos, descarga de playlists y más opciones de configuración.
+
 ## Requisitos
 
 - Python 3.6 o superior
